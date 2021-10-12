@@ -1,5 +1,5 @@
-# Private_Blockchain_Ethereum
-### In this repository I will explain in detail that how to create Private Blockchain on Ethereum using puppeth.
+
+# In this repository I will explain in detail that how to create Private Blockchain on Ethereum using puppeth.
 
 
 # **Using Puppeth to create “Private Ethereum Blockchain” on Linux.**
