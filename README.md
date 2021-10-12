@@ -4,7 +4,7 @@
 
 	mkdir -p blockchain
 
-### 2) Usign working Directory
+### 2) Using working Directory
 
 	cd blockchain
 
