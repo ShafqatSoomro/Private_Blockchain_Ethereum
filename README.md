@@ -159,9 +159,9 @@ In this repository I will explain in detail that how to create Private Blockchai
 ### 26) Now, we can check the balance of accounts.
 
 ### Account No. 2
-> web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")
+	> web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")
 
 ### Account No. 3
-> web3.fromWei(eth.getBalance(eth.accounts[2]), "ether")
+	> web3.fromWei(eth.getBalance(eth.accounts[2]), "ether")
 
 ### Press ctrl+D for exit/stop the blockchain.
