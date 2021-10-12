@@ -103,7 +103,7 @@
 
 ### 18) Checking the balance of first account.
 
-		> eth.getBalance(eth.coinbase)
+	> eth.getBalance(eth.coinbase)
 
 
 ### 19) We can get the ether balance with this command.
